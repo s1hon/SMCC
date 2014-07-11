@@ -1,6 +1,6 @@
 #SMCC
 Step motor control with Cubieboard  
-  
+Video on: [https://www.youtube.com/watch?v=ig8V1JdbjgM](https://www.youtube.com/watch?v=ig8V1JdbjgM)  
   
 ##使用方式
 
