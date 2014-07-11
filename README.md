@@ -1,5 +1,4 @@
 #SMCC
-====
 Step motor control with Cubieboard  
   
   
