@@ -22,5 +22,5 @@ gcc Vcc 可以直接接到CubieBoard板子上，
 如果需要改變速度，只需要修改 ./step-servo.c中的sp變數，即可控制速度。  
 修改完之後需要重新Compiler  
   
-` gcc ./step-servo.c -c `
+` gcc ./step-servo.c -c `  
 ` gcc step-servo.o gpio_lib.o -o step-servo `
